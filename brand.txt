@@ -3,3 +3,5 @@ Samsung
 Nokia
 Motorolla
 Hauwi
+fake iphone
+Lg
